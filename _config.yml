@@ -1,1 +1,5 @@
-
+title : Guru Raja
+#logo : /assets/img/headshot_circle.png
+#description : textbelow image
+show_downloads : true
+theme : jekyll_theme_minimal
